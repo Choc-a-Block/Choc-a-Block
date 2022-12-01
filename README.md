@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Choc_a_Block</h1>
+<h1 align="center">Hi, I'm Choc_a_Block</h1>
 <h3 align="center">I'm a student studying A-Levels in Maths, Physics and Computer Science</h3>
 
 - :notebook_with_decorative_cover: I’m working on my [website portfolio](https://choc-a-block.github.io)
