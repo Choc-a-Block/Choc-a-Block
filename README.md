@@ -3,7 +3,7 @@
 
 - :notebook_with_decorative_cover: I’m working on my [website portfolio](https://choc-a-block.github.io)
 - :mortar_board: I'm also making a [timetabling system](https://github.com/Choc-a-Block/Timetabler) for my CS NEA Project
-- :black_nib: I'm making a [cellular automata simulation engine](https://github.com/Choc-a-Block/Cellular-Automata-EPQ) for my EPQ Project
+- :black_nib: I'm making a [cellular automata simulation engine](https://github.com/Choc-a-Block/EPQ-Cellular-Automata) for my EPQ Project
 
 
 <h3 align="left">I have experience with:</h3>
