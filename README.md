@@ -1,10 +1,15 @@
 <h1 align="center">Hi, I'm Olivier</h1>
-<h3 align="center">I'm a student studying A-Levels in Maths, Physics and Computer Science</h3>
+<p align="center">
+  <samp>
+I'm a student studying A-Levels in Maths, Physics and Computer Science
+  </samp>
+</p>
+
 
 - :notebook_with_decorative_cover: I’m working on my [website portfolio](https://choc-a-block.github.io)
 - :mortar_board: I'm also making a timetabling system for my CS NEA Project
 - :black_nib: I'm making a cellular automata simulation engine for my EPQ Project
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="python" width="40" height="40"/> </a>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
