@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Olivier</h1>
+<!-- <h1 align="center">Hi, I'm Olivier</h1> -->
+ <p align='center'>
+ <a href="https://choc-a-block.github.io"><img src="./intro2.gif" width="800" title="hover text"></a>
+  </p>
+  <p align='center'>
 <p align="center">
   <samp>
 I'm a student studying A-Levels in Maths, Physics and Computer Science
