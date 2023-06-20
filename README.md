@@ -18,7 +18,7 @@
  <a href="https://opencv.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/</a>
  <a href="https://webflow.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="Webflow" width="40" height="40"/</a>
  <a href="https://www.latex-project.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/</a>
-
+ <a href="https://docker.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Docker" width="40" height="40"/</a>
 
 
 </p>
