@@ -29,7 +29,7 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
     <img src="https://skillicons.dev/icons?i=blender,linkedin,linux,ps,pr,webflow" />
   </a>
 </p>
-<h2 align="center">IDEs and Version Control</h2>
+<h2 align="center">DevOps</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,vim,vscode,visualstudio" />
