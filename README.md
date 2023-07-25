@@ -38,9 +38,9 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=choc-a-block&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=choc-a-block&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />. 
 
-![Metrics](https://metrics.lecoq.io/Choc-a-Block?template=terminal&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FLondon)
-
-
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 <!---
 Choc-a-Block/Choc-a-Block is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
