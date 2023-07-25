@@ -38,9 +38,10 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=choc-a-block&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=choc-a-block&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />. 
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
+
+
 <!---
 Choc-a-Block/Choc-a-Block is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
