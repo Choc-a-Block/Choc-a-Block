@@ -32,7 +32,7 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 <h2 align="center">DevOps</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,vim,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,vim,idea,vscode,visualstudio" />
   </a>
 </p>
 
