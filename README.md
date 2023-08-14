@@ -10,7 +10,7 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 </p>
 <img src="https://komarev.com/ghpvc/?username=Choc-a-Block&color=800080" alt="Choc a Block"/>
 
-- :notebook_with_decorative_cover: I’m working on my [website portfolio](https://choc-a-block.github.io)
+- :notebook_with_decorative_cover: I’m working on my [website portfolio](https://choc-a-block.github.io) (Currently V2 is in development)
 - :mortar_board: I'm also making a timetabling system for my CS NEA Project
 - :black_nib: I'm making a cellular automata simulation engine for my EPQ Project
 
