@@ -13,6 +13,7 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 - :notebook_with_decorative_cover: I’m working on my [website portfolio](https://choc-a-block.github.io) (Currently V2 is in development)
 - :mortar_board: I'm also making a timetabling system for my CS NEA Project
 - :black_nib: I'm making a cellular automata simulation engine for my EPQ Project
+- :wrench: I'm making a command-line utility suite using ruby
 
 
 
