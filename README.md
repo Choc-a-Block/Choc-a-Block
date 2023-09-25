@@ -21,7 +21,7 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 <h2 align="center">Languages & Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,django,py,nginx,java,js,latex,postgres,pytorch,md,ruby" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,django,py,nginx,java,js,latex,postgres,pytorch,md,regex,ruby" />
   </a>
 </p>
 <h2 align="center">Other proficiencies</h2>
