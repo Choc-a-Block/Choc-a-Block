@@ -43,7 +43,26 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
-<!---
-Choc-a-Block/Choc-a-Block is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <samp>
+Long been complacent with the requirements I've been dealt
+   </samp>
+ </p>
+ <p align="center">
+ <samp>
+Restless and weak from the code that I've built
+  </samp>
+  </p>
+ <p align="center">
+ <samp>
+So I'll journey afar, for there's enhancements to find
+  </samp>
+  </p>
+ <p align="center">
+ <samp>
+And I'll fill out my entry in the devlogs of time
+  </samp>
+</p>
+ <p align="center">
+ <a>An adaptation of </a><a href="https://open.spotify.com/track/63Ne6wKfGraVaeVUihBRjl?si=8391b11d86694966">The Sun, The Moon, The Star</a>
+ </p>
