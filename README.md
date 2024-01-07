@@ -42,20 +42,6 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-
-<p align="center">
-  <samp>
-Long been complacent with the requirements I've been dealt
-   </samp>
- </p>
- <p align="center">
- <samp>
-Restless and weak from the code that I've built
-  </samp>
-  </p>
- <p align="center">
- <samp>
-So I'll journey afar, for there's enhancements to find
   </samp>
   </p>
  <p align="center">
