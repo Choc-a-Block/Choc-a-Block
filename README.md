@@ -44,11 +44,3 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 </picture>
   </samp>
   </p>
- <p align="center">
- <samp>
-And I'll fill out my entry in the devlogs of time
-  </samp>
-</p>
- <p align="center">
- <a>An adaptation of </a><a href="https://open.spotify.com/track/63Ne6wKfGraVaeVUihBRjl?si=8391b11d86694966">The Sun, The Moon, The Star</a>
- </p>
