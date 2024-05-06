@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi, I'm Olivier</h1> -->
  <p align='center'>
- <a href="https://choc-a-block.github.io"><img src="./intro2.gif" width="800" title="hover text"></a>
+ <a href="https://olivierhinds.me"><img src="./intro2.gif" width="800" title="hover text"></a>
   </p>
   <p align='center'>
 <p align="center">
@@ -10,7 +10,7 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 </p>
 <img src="https://komarev.com/ghpvc/?username=Choc-a-Block&color=800080" alt="Choc a Block"/>
 
-- :notebook_with_decorative_cover: I’m working on my [website portfolio](https://choc-a-block.github.io) (Currently V2 is in development)
+- :notebook_with_decorative_cover: I’m working on my [website portfolio](https://olivierhinds.me) (Currently V2 is in development)
 - :mortar_board: I'm also making a timetabling system for my CS NEA Project
 - :black_nib: I'm making a cellular automata simulation engine for my EPQ Project
 - :wrench: I'm designing a command-line utility suite using ruby
