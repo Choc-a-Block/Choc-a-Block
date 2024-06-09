@@ -21,22 +21,21 @@ I'm a student studying A-Levels in Maths, Physics and Computer Science
 <h2 align="center">Languages & Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,django,py,nginx,java,js,latex,postgres,pytorch,md,regex,ruby" />
-  </a>
-</p>
-<h2 align="center">Other proficiencies</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,linkedin,linux,ps,pr,webflow,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,py,django,pytorch,nginx,java,js,ruby,postgres,regex,latex" />
   </a>
 </p>
 <h2 align="center">DevOps</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,vim,idea,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,idea,vscode" />
   </a>
 </p>
-
+<h2 align="center">Currently Learning</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,svelte,kubernetes,vim" />
+  </a>
+</p>
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=choc-a-block&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /> 
 
 <picture>
