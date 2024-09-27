@@ -32,7 +32,7 @@ I'm a student studying Mechanical Engineering at the University of Sussex
 <h2 align="center">DevOps</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,idea,vscode,obsidian,notion" />
   </a>
 </p>
 <h2 align="center">Currently Learning</h2>
