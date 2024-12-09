@@ -43,8 +43,5 @@ I'm a student studying Mechanical Engineering at the University of Sussex
 </p>
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=choc-a-block&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /> 
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
   </samp>
   </p>
